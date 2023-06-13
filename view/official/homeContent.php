@@ -44,7 +44,7 @@
 ?>
 
 <div class="row">
-    <div class="col-lg-4">
+    <div class="col-lg-4 mb-3">
         <div class="card">
             <div class="card-body d-flex flex-column align-items-start">
                 <h5 class="card-title"><?=$totalStudents?></h5>
@@ -53,7 +53,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4 mb-3">
         <div class="card">
             <div class="card-body d-flex flex-column align-items-start">
                 <h5 class="card-title"><?=$totalRequests?></h5>
@@ -62,7 +62,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4 mb-3">
         <div class="card">
             <div class="card-body d-flex flex-column align-items-start">
                 <h5 class="card-title"><?=$totalPending?></h5>
@@ -71,7 +71,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4 mb-3">
         <div class="card">
             <div class="card-body d-flex flex-column align-items-start">
                 <h5 class="card-title"><?=$totalRegistrations?></h5>
@@ -80,7 +80,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4">
+    <div class="col-lg-4 mb-3">
         <div class="card">
             <div class="card-body d-flex flex-column align-items-start">
                 <h5 class="card-title"><?=$totalPending2?></h5>
